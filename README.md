@@ -3,7 +3,7 @@
 # Mapping Butterfly Biodiversity Hotspots in Northern Ireland using Python and NBN Atlas Data
 
 ### Description
-This project demonstrates how to map biodiversity hotspots for butterflies in Northern Ireland using open data from the National Biodiversity Network (NBN) Atlas. The aim of the study is to visualise areas with high species richness and assess biodiversity patterns, helping inform conservation and land management efforts. 
+This project demonstrates how to map biodiversity hotspots for butterflies in Northern Ireland using open data from the National Biodiversity Network (NBN) Atlas. The aim of the study is to visualise areas with high species richness and assess biodiversity patterns, helping inform conservation and land management efforts.\
 The project uses Python to process, clean and analyse the butterfly occurrence data, and to create species richness maps. The maps will be overlain with protected areas for enhanced ecological insights. 
 
 ### Contents
@@ -16,7 +16,7 @@ To install 'conda', Anaconda Navigator can be downloaded from [Anaconda](https:/
 ### How to use project
 
 ### Credits
-Bob's iamdonovan github
+Bob's iamdonovan github\
 NBN Atlas Team
 
 ### License
