@@ -10,8 +10,8 @@ The project uses Python to process, clean and analyse the butterfly occurrence d
 
 ## Setup and Installation
 ### Getting Started
-To get started on the project, <mark>git<mark> and ==conda== must be installed on your computer. The ==git== installer for your operating system can be downloaded from [GitHub](https://git-scm.com/downloads).
-To install ==conda==, Anaconda Navigator can be downloaded from [Anaconda](https://www.anaconda.com/download/success). 
+To get started on the project, <mark>git</mark> and <mark>conda</mark> must be installed on your computer. The <nark>git</mark> installer for your operating system can be downloaded from [GitHub](https://git-scm.com/downloads).
+To install <nmark>conda</mark> Anaconda Navigator can be downloaded from [Anaconda](https://www.anaconda.com/download/success). 
 
 ### How to use project
 
