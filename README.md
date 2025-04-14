@@ -8,7 +8,8 @@ The project uses Python to process, clean and analyse the butterfly occurrence d
 
 ### Contents
 
-### Setup/Installation
+## Setup and Installation
+### Getting Started
 
 ### How to use project
 
