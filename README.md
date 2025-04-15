@@ -14,9 +14,6 @@ The project uses Python to process, clean and analyse the butterfly occurrence d
   - Setting up the Conda Environment
   - Additional Setup Steps
 - How to use Project
-- Methods
-- Expected Results
-- Troubleshooting
 - Credits
 - License
 
@@ -36,14 +33,6 @@ To install <mark>conda</mark> Anaconda Navigator can be downloaded from [Anacond
 ### Additional Setup Steps
 
 ## How to use Project
-
-## Methods
-
-## Expected Results
-Show a few images of the maps
-
-## Troubleshooting
-Do we include this section???
 
 
 ### Credits
