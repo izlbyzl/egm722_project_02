@@ -7,23 +7,35 @@ This project demonstrates how to map biodiversity hotspots for butterflies in No
 The project uses Python to process, clean and analyse the butterfly occurrence data, and to create species richness maps. The maps will be overlain with protected areas for enhanced ecological insights. 
 
 ## Contents
+- Setup and Installation
+  - Getting Started
+  - Optional Steps
+  - Download/Clone the Project Repository
+  - Setting up the Conda Environment
+  - Additional Setup Steps
+- How to use Project
+- Methods
+- Expected Results
+- Troubleshooting
+- Credits
+- License
+
 
 ## Setup and Installation
 ### Getting Started
-To get started on the project, <mark style='background-color: purple'>git</mark> and ::conda:: must be installed on your computer. The <mark>git</mark> installer for your operating system can be downloaded from [GitHub](https://git-scm.com/downloads).
+To get started on the project, <mark style='color: pink'>git</mark> and <mark>conda</mark> must be installed on your computer. The <mark>git</mark> installer for your operating system can be downloaded from [GitHub](https://git-scm.com/downloads).
 To install <mark>conda</mark> Anaconda Navigator can be downloaded from [Anaconda](https://www.anaconda.com/download/success). 
 
 ### Optional Steps
 
 
-### Download/clone the Project Repository
+### Download/Clone the Project Repository
 
 ### Setting up the Conda Environment
 
 ### Additional Setup Steps
 
-
-## How to use project
+## How to use Project
 
 ## Methods
 
