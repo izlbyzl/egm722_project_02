@@ -3,7 +3,7 @@
 # Mapping Butterfly Biodiversity Hotspots in Northern Ireland using Python and NBN Atlas Data
 
 ## Description
-This project demonstrates how to map biodiversity hotspots for butterflies in Northern Ireland using open data from the National Biodiversity Network (NBN) Atlas. The aim of the study is to visualise areas with high species richness and assess biodiversity patterns, helping inform conservation and land management efforts.\
+This project demonstrates how to map biodiversity hotspots for butterflies in Northern Ireland using open data from the National Biodiversity Network (NBN) Atlas. The aim of the study is to visualise areas with high species richness and assess biodiversity patterns, helping inform conservation and land management efforts.  
 The project uses Python to process, clean and analyse the butterfly occurrence data, and to create species richness maps. The maps will be overlain with protected areas for enhanced ecological insights. 
 
 ## Contents
@@ -21,7 +21,7 @@ The project uses Python to process, clean and analyse the butterfly occurrence d
 ## Setup and Installation
 ### Getting Started
 To get started on the project, <mark style='color: pink'>git</mark> and <mark>conda</mark> must be installed on your computer. The <mark>git</mark> installer for your operating system can be downloaded from [GitHub](https://git-scm.com/downloads).
-To install <mark>conda</mark>, the graphical interface, Anaconda Navigator can be downloaded from [Anaconda](https://www.anaconda.com/download/success). 
+To install <mark>conda</mark>, the graphical interface Anaconda Navigator can be downloaded from [Anaconda](https://www.anaconda.com/download/success). 
 
 ### Optional Steps
 It is recommended to open a GitHub account to enable working through the project and to create a fork of the repository. A free account is available at [GitHub](https://github.com/).  
@@ -31,12 +31,13 @@ It is also recommended to use an integrated development environment (IDE) such a
 - **VSCode** [Visual Studio Code](https://visualstudio.microsoft.com/downloads/)
 
 ### Download/Clone the Project Repository
-The project repository is available at: [https://github.com/izlbyzl/egm722_project_02](https://github.com/izlbyzl/egm722_project_02)    
-First, fork the repository to your GitHub account, then clone your fork using the following command:
+The project repository is available at: 
+[https://github.com/izlbyzl/egm722_project_02](https://github.com/izlbyzl/egm722_project_02)    
+First, fork the repository to your GitHub account, then clone your fork using the following command:  
 '''git clone https://github.com/{your username}/egm722_project_02'''  
 replacing <mark>{your_username}</mark> with your GitHub username.
 
-If you do not have a GitHub account, the project repository can be cloned using:
+If you do not have a GitHub account, the project repository can be cloned using:  
 '''git clone https://github.com/izlbyzl/egm722_project_02'''
 
 ### Setting up the Conda Environment
