@@ -48,7 +48,17 @@ Or
 From the directory where the project is cloned, run command prompt or terminal with the following command:  
 '''conda env create -f environment.yml'''  
 
+Packages this project requires are:
+•	geopandas: for working with geospatial data (https://geopandas.org/en/stable/)
+•	cartopy: for producing maps and geospatial data analysis (https://scitools.org.uk/cartopy/docs/latest/)
+•	jupyter-lab: interactive script notebook (https://jupyter.org/)
+•	ipywidgets: adds interactive widgets to Jupyter (https://ipywidgets.readthedocs.io/en/stable/)
+•	rasterio: for use with raster datasets (https://rasterio.readthedocs.io/en/stable/)
+•	pyepsg: provides access to EPSG codes (https://pyepsg.readthedocs.io/en/latest/)
+•	folium: for visualising data and maps (https://python-visualization.github.io/folium/latest/)
+
 ### Additional Setup Steps
+Finally launch jupyter-lab from your conda environment and work through the code.
 
 ## How to use Project
 
