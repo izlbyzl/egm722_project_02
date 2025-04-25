@@ -64,8 +64,9 @@ Finally launch jupyter-lab from your conda environment and work through the code
 
 
 ### Credits
-Bob's iamdonovan github\
-NBN Atlas Team
+Robert McNabb' GitHub: [https://iamdonovan.github.io/teaching/egm722/index.html](https://iamdonovan.github.io/teaching/egm722/index.html)   
+
+NBN Atlas Team and contributing Citizen Scientists
 
 ### License
 This project is licensed under the GNU General Public License v3.0, see LICENSE file for details.
