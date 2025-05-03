@@ -50,8 +50,8 @@ The dependencies this project requires are:
 - `pandas`: for data analysis and manipulation [https://pandas.pydata.org/](https://pandas.pydata.org/)
 - `shapely`: for manipulation and analysis of polygons [https://pypi.org/project/shapely/](https://pypi.org/project/shapely/)
 - `ipywidgets`: adds interactive widgets to Jupyter [https://ipywidgets.readthedocs.io/en/stable/](https://ipywidgets.readthedocs.io/en/stable/)
-- `rasterio`: for use with raster datasets [https://rasterio.readthedocs.io/en/stable/](https://rasterio.readthedocs.io/en/stable/)
 - `pyepsg`: provides access to EPSG codes [https://pyepsg.readthedocs.io/en/latest/](https://pyepsg.readthedocs.io/en/latest/)
+- `seaborn`: provides statistical data visualisation [https://seaborn.pydata.org/](https://seaborn.pydata.org/)
 
 Finally launch `jupyter-lab` from your `conda` environment and work through the code. 
 
