@@ -1,10 +1,12 @@
 ### MSc Geographic Information Systems EGM722_Project / Ulster University
+### Author: Liz Bygate
+### May 2025
 
-# Mapping Lepidoptera Biodiversity Hotspots in Northern Ireland (2014 - 2024) using Python and NBN Atlas Data
+# Mapping Lepidoptera Biodiversity in Northern Ireland (2014 - 2024) using Python and Species Occurence Data
 
 ## Description
 This project demonstrates how to map biodiversity hotspots for butterflies and moths in Northern Ireland using open data from the National Biodiversity Network (NBN) Atlas. The aim of the study is to visualise areas with high species richness and assess biodiversity patterns, helping inform conservation and land management efforts.  
-The project uses Python to process, clean and analyse lepidoptera occurrence data, and to create species richness maps. The maps will be overlain with protected areas for enhanced ecological insights. 
+The project uses Python to process, clean and analyse lepidoptera occurence data, and to create species richness maps. The maps will be overlain with protected areas for enhanced ecological insights. 
 
 ## Contents
 - Setup and Installation
@@ -60,9 +62,12 @@ Northern Ireland shapefile (**.shp**) containing vector data covering, counties,
 
 Species occurrence data was downloaded from the [National Biodiversity Network (NBN) Atlas (2025).](https://nbnatlas.org/) A search for the order *Lepidoptera* gives access to a UK dataset. Records were refined using search parameters to include data from a specific location (NI), time-frame (2014 -2024) and other filter parameters (verification: accepted and human observation). The final selection was then downloaded in **.csv** format. Once downloaded, unnecessary columns were removed from the dataframe, ensuring species names, geographic coordinates (latitude/longitude) and date columns remained. 
 
-### Credits
-Robert McNabb' GitHub: [https://iamdonovan.github.io/teaching/egm722/index.html](https://iamdonovan.github.io/teaching/egm722/index.html)   
-NBN Atlas Team and contributing Citizen Scientists
+## How to Use Project
+This project can be modified and used to map biodiversity patterns of any species of interest in a desired study area by updating input species search and spatio-temporal parameters accordingly. 
 
-### License
+## Credits
+Robert McNabb' GitHub: [https://iamdonovan.github.io/teaching/egm722/index.html](https://iamdonovan.github.io/teaching/egm722/index.html)   
+NBN Atlas Team and contributing Citizen Scientists [https://nbnatlas.org/](https://nbnatlas.org/)
+ 
+## License
 This project is licensed under the GNU General Public License v3.0, see LICENSE file for details.
